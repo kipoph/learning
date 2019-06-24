@@ -30,6 +30,7 @@ const setPlayerMoves = (player,moveOneType,moveOneValue,moveTwoType,moveTwoValue
             playerTwoMoveTwoValue=moveTwoValue;
             playerTwoMoveThreeType=moveThreeType;
             playerTwoMoveThreeValue=moveThreeValue;
+            
         }
     }
 }
